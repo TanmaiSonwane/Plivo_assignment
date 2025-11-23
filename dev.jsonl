@@ -1,0 +1,200 @@
+{"id": "dev_0", "text": "the sixteen digits are 4 8 2 7 5 9 0 8 7 4 4 2 3 6 4 2", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_1", "text": "card digits are 4 7 0 8 9 9 6 2 4 2 3 5 2 5 8 9", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_2", "text": "my credit card number is 2 8 4 6 7 0 0 0 1 4 9 5 9 4 1 8", "entities": [{"start": 25, "end": 56, "label": "CREDIT_CARD"}]}
+{"id": "dev_3", "text": "card digits are 8 2 4 0 3 7 4 1 0 0 3 5 8 4 1 8", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_4", "text": "my credit card number is 6 6 9 1 4 4 7 7 8 3 6 7 7 9 7 3", "entities": [{"start": 25, "end": 56, "label": "CREDIT_CARD"}]}
+{"id": "dev_5", "text": "the sixteen digits are 4 9 1 5 2 0 2 9 2 4 9 7 9 6 4 3", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_6", "text": "the sixteen digits are 5 4 5 8 1 8 7 0 1 4 0 1 1 7 2 5", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_7", "text": "my credit card number is 2 5 9 9 8 1 8 3 6 0 7 5 8 4 9 2", "entities": [{"start": 25, "end": 56, "label": "CREDIT_CARD"}]}
+{"id": "dev_8", "text": "card digits are 0 4 8 5 6 9 8 6 6 1 7 3 3 0 0 6", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_9", "text": "card digits are 5 1 2 2 4 7 4 5 1 3 8 5 1 7 0 5", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_10", "text": "my credit card number is 6 5 6 5 5 0 1 5 4 3 0 5 0 1 9 8", "entities": [{"start": 25, "end": 56, "label": "CREDIT_CARD"}]}
+{"id": "dev_11", "text": "the sixteen digits are 5 3 1 3 6 5 9 5 7 4 0 9 7 8 7 9", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_12", "text": "my credit card number is 1 8 1 0 8 1 8 4 8 3 2 5 7 3 3 8", "entities": [{"start": 25, "end": 56, "label": "CREDIT_CARD"}]}
+{"id": "dev_13", "text": "the sixteen digits are 2 4 1 3 9 6 6 2 0 6 5 7 6 8 9 3", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_14", "text": "my credit card number is 3 8 6 7 1 7 5 2 4 6 2 2 7 4 9 5", "entities": [{"start": 25, "end": 56, "label": "CREDIT_CARD"}]}
+{"id": "dev_15", "text": "the sixteen digits are 3 2 9 7 8 9 9 7 1 8 2 4 8 8 1 8", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_16", "text": "card digits are 0 7 0 4 0 0 3 3 9 4 0 8 6 5 9 3", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_17", "text": "card digits are 6 8 6 9 8 4 6 0 1 4 7 5 9 4 4 7", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_18", "text": "the sixteen digits are 6 8 7 5 6 8 3 2 7 3 9 1 5 9 6 4", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_19", "text": "the sixteen digits are 7 9 8 0 6 9 6 8 4 0 2 1 9 6 1 6", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_20", "text": "card digits are 3 0 6 2 6 0 2 9 1 8 7 2 5 0 7 8", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_21", "text": "card digits are 4 9 0 2 9 2 9 3 9 0 6 8 5 3 9 3", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_22", "text": "card digits are 3 6 5 0 4 6 8 1 8 3 0 7 0 3 4 1", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_23", "text": "the sixteen digits are 3 9 6 5 9 5 3 6 1 3 1 3 1 8 0 6", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_24", "text": "the sixteen digits are 6 8 6 0 4 9 7 0 2 9 8 3 1 3 8 0", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_25", "text": "the sixteen digits are 1 4 1 8 7 1 5 5 0 7 4 0 4 8 9 7", "entities": [{"start": 23, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "dev_26", "text": "card digits are 6 3 7 0 1 3 8 5 5 7 7 0 5 7 2 3", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_27", "text": "card digits are 5 6 0 1 4 3 3 9 4 3 3 4 2 7 3 1", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_28", "text": "card digits are 7 6 6 5 2 9 4 5 0 6 7 0 0 7 7 8", "entities": [{"start": 16, "end": 47, "label": "CREDIT_CARD"}]}
+{"id": "dev_29", "text": "my credit card number is 0 9 8 7 8 8 1 2 6 2 8 6 3 3 9 1", "entities": [{"start": 25, "end": 56, "label": "CREDIT_CARD"}]}
+{"id": "dev_30", "text": "reach me at 9 9 2 0 9 3 7 1 0 6", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_31", "text": "reach me at 2 0 1 2 3 9 3 0 8 5", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_32", "text": "my phone number is 1 7 1 2 6 3 7 5 5 7", "entities": [{"start": 19, "end": 38, "label": "PHONE"}]}
+{"id": "dev_33", "text": "call me on 7 9 1 6 1 4 5 0 8 7", "entities": [{"start": 11, "end": 30, "label": "PHONE"}]}
+{"id": "dev_34", "text": "reach me at 3 0 8 9 9 5 4 7 6 7", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_35", "text": "reach me at 6 3 8 0 5 4 1 8 0 1", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_36", "text": "reach me at 8 9 7 2 6 3 1 9 9 7", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_37", "text": "my phone number is 1 4 9 4 7 9 8 8 0 3", "entities": [{"start": 19, "end": 38, "label": "PHONE"}]}
+{"id": "dev_38", "text": "call me on 5 9 0 3 3 1 9 7 0 7", "entities": [{"start": 11, "end": 30, "label": "PHONE"}]}
+{"id": "dev_39", "text": "call me on 0 1 3 2 8 5 8 8 5 0", "entities": [{"start": 11, "end": 30, "label": "PHONE"}]}
+{"id": "dev_40", "text": "my phone number is 8 6 6 5 0 2 5 9 3 2", "entities": [{"start": 19, "end": 38, "label": "PHONE"}]}
+{"id": "dev_41", "text": "reach me at 0 4 7 3 7 2 6 7 4 2", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_42", "text": "call me on 0 7 8 5 1 8 4 9 2 1", "entities": [{"start": 11, "end": 30, "label": "PHONE"}]}
+{"id": "dev_43", "text": "my phone number is 1 8 7 4 3 7 2 6 2 3", "entities": [{"start": 19, "end": 38, "label": "PHONE"}]}
+{"id": "dev_44", "text": "my phone number is 0 1 5 3 1 5 4 0 5 3", "entities": [{"start": 19, "end": 38, "label": "PHONE"}]}
+{"id": "dev_45", "text": "reach me at 9 0 4 4 2 1 8 9 4 7", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_46", "text": "reach me at 5 1 4 9 8 3 0 6 5 4", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_47", "text": "call me on 7 5 5 5 6 0 9 1 9 6", "entities": [{"start": 11, "end": 30, "label": "PHONE"}]}
+{"id": "dev_48", "text": "reach me at 1 9 5 3 5 2 0 8 6 4", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_49", "text": "call me on 3 2 4 4 3 3 2 7 4 8", "entities": [{"start": 11, "end": 30, "label": "PHONE"}]}
+{"id": "dev_50", "text": "my phone number is 0 1 1 3 4 5 6 5 4 6", "entities": [{"start": 19, "end": 38, "label": "PHONE"}]}
+{"id": "dev_51", "text": "reach me at 8 5 8 6 6 1 2 7 2 5", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_52", "text": "reach me at 0 9 2 3 1 5 6 3 7 2", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_53", "text": "reach me at 9 4 6 1 7 0 6 7 6 0", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_54", "text": "call me on 7 5 1 8 7 7 7 2 2 8", "entities": [{"start": 11, "end": 30, "label": "PHONE"}]}
+{"id": "dev_55", "text": "reach me at 3 5 3 1 2 9 2 9 7 2", "entities": [{"start": 12, "end": 31, "label": "PHONE"}]}
+{"id": "dev_56", "text": "call me on 0 0 3 9 8 4 3 6 2 2", "entities": [{"start": 11, "end": 30, "label": "PHONE"}]}
+{"id": "dev_57", "text": "call me on 3 6 2 0 2 5 7 3 1 0", "entities": [{"start": 11, "end": 30, "label": "PHONE"}]}
+{"id": "dev_58", "text": "my phone number is 8 2 5 8 5 0 5 2 5 4", "entities": [{"start": 19, "end": 38, "label": "PHONE"}]}
+{"id": "dev_59", "text": "my phone number is 8 2 4 3 2 9 6 6 3 1", "entities": [{"start": 19, "end": 38, "label": "PHONE"}]}
+{"id": "dev_60", "text": "send mail to ramesh.verma@gmail.com", "entities": [{"start": 13, "end": 35, "label": "EMAIL"}]}
+{"id": "dev_61", "text": "my email is ramesh.reddy@gmail.com", "entities": [{"start": 12, "end": 34, "label": "EMAIL"}]}
+{"id": "dev_62", "text": "contact email arjun.iyer@gmail.com", "entities": [{"start": 14, "end": 34, "label": "EMAIL"}]}
+{"id": "dev_63", "text": "contact email ramesh.verma@gmail.com", "entities": [{"start": 14, "end": 36, "label": "EMAIL"}]}
+{"id": "dev_64", "text": "contact email rahul.singh@gmail.com", "entities": [{"start": 14, "end": 35, "label": "EMAIL"}]}
+{"id": "dev_65", "text": "send mail to sneha.joshi@gmail.com", "entities": [{"start": 13, "end": 34, "label": "EMAIL"}]}
+{"id": "dev_66", "text": "contact email amit.singh@gmail.com", "entities": [{"start": 14, "end": 34, "label": "EMAIL"}]}
+{"id": "dev_67", "text": "contact email mohit.verma@gmail.com", "entities": [{"start": 14, "end": 35, "label": "EMAIL"}]}
+{"id": "dev_68", "text": "contact email rahul.singh@gmail.com", "entities": [{"start": 14, "end": 35, "label": "EMAIL"}]}
+{"id": "dev_69", "text": "my email is amit.das@gmail.com", "entities": [{"start": 12, "end": 30, "label": "EMAIL"}]}
+{"id": "dev_70", "text": "my email is neha.bhatt@gmail.com", "entities": [{"start": 12, "end": 32, "label": "EMAIL"}]}
+{"id": "dev_71", "text": "send mail to amit.verma@gmail.com", "entities": [{"start": 13, "end": 33, "label": "EMAIL"}]}
+{"id": "dev_72", "text": "send mail to arjun.iyer@gmail.com", "entities": [{"start": 13, "end": 33, "label": "EMAIL"}]}
+{"id": "dev_73", "text": "contact email neha.iyer@gmail.com", "entities": [{"start": 14, "end": 33, "label": "EMAIL"}]}
+{"id": "dev_74", "text": "send mail to rahul.joshi@gmail.com", "entities": [{"start": 13, "end": 34, "label": "EMAIL"}]}
+{"id": "dev_75", "text": "send mail to sneha.patel@gmail.com", "entities": [{"start": 13, "end": 34, "label": "EMAIL"}]}
+{"id": "dev_76", "text": "contact email neha.das@gmail.com", "entities": [{"start": 14, "end": 32, "label": "EMAIL"}]}
+{"id": "dev_77", "text": "my email is neha.joshi@gmail.com", "entities": [{"start": 12, "end": 32, "label": "EMAIL"}]}
+{"id": "dev_78", "text": "my email is amit.das@gmail.com", "entities": [{"start": 12, "end": 30, "label": "EMAIL"}]}
+{"id": "dev_79", "text": "my email is sneha.sharma@gmail.com", "entities": [{"start": 12, "end": 34, "label": "EMAIL"}]}
+{"id": "dev_80", "text": "send mail to pooja.verma@gmail.com", "entities": [{"start": 13, "end": 34, "label": "EMAIL"}]}
+{"id": "dev_81", "text": "my email is sneha.reddy@gmail.com", "entities": [{"start": 12, "end": 33, "label": "EMAIL"}]}
+{"id": "dev_82", "text": "send mail to neha.joshi@gmail.com", "entities": [{"start": 13, "end": 33, "label": "EMAIL"}]}
+{"id": "dev_83", "text": "contact email kiran.sharma@gmail.com", "entities": [{"start": 14, "end": 36, "label": "EMAIL"}]}
+{"id": "dev_84", "text": "contact email kiran.iyer@gmail.com", "entities": [{"start": 14, "end": 34, "label": "EMAIL"}]}
+{"id": "dev_85", "text": "contact email arjun.das@gmail.com", "entities": [{"start": 14, "end": 33, "label": "EMAIL"}]}
+{"id": "dev_86", "text": "contact email amit.das@gmail.com", "entities": [{"start": 14, "end": 32, "label": "EMAIL"}]}
+{"id": "dev_87", "text": "contact email mohit.das@gmail.com", "entities": [{"start": 14, "end": 33, "label": "EMAIL"}]}
+{"id": "dev_88", "text": "my email is amit.sharma@gmail.com", "entities": [{"start": 12, "end": 33, "label": "EMAIL"}]}
+{"id": "dev_89", "text": "contact email ramesh.verma@gmail.com", "entities": [{"start": 14, "end": 36, "label": "EMAIL"}]}
+{"id": "dev_90", "text": "my name is rahul iyer", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "dev_91", "text": "this is amit iyer speaking", "entities": [{"start": 8, "end": 17, "label": "PERSON_NAME"}]}
+{"id": "dev_92", "text": "this is arjun joshi speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_93", "text": "this is neha kumar speaking", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "dev_94", "text": "my name is neha singh", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "dev_95", "text": "my name is arjun singh", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "dev_96", "text": "my name is kiran das", "entities": [{"start": 11, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_97", "text": "this is ramesh iyer speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_98", "text": "caller is neha reddy", "entities": [{"start": 10, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_99", "text": "my name is divya iyer", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "dev_100", "text": "my name is mohit joshi", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "dev_101", "text": "my name is kiran sharma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "dev_102", "text": "this is kiran bhatt speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_103", "text": "this is arjun joshi speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_104", "text": "this is arjun reddy speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_105", "text": "caller is kiran joshi", "entities": [{"start": 10, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "dev_106", "text": "this is mohit iyer speaking", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "dev_107", "text": "this is rahul reddy speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_108", "text": "caller is kiran kumar", "entities": [{"start": 10, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "dev_109", "text": "caller is mohit das", "entities": [{"start": 10, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_110", "text": "this is sneha patel speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_111", "text": "this is mohit bhatt speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_112", "text": "my name is pooja sharma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "dev_113", "text": "caller is arjun kumar", "entities": [{"start": 10, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "dev_114", "text": "this is ramesh verma speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_115", "text": "caller is ramesh joshi", "entities": [{"start": 10, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "dev_116", "text": "caller is neha reddy", "entities": [{"start": 10, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_117", "text": "caller is neha verma", "entities": [{"start": 10, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_118", "text": "caller is divya singh", "entities": [{"start": 10, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "dev_119", "text": "my name is divya verma", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "dev_120", "text": "delivery scheduled for tomorrow morning", "entities": [{"start": 23, "end": 39, "label": "DATE"}]}
+{"id": "dev_121", "text": "delivery scheduled for twenty third november", "entities": [{"start": 23, "end": 44, "label": "DATE"}]}
+{"id": "dev_122", "text": "meeting on tomorrow morning", "entities": [{"start": 11, "end": 27, "label": "DATE"}]}
+{"id": "dev_123", "text": "delivery scheduled for next monday", "entities": [{"start": 23, "end": 34, "label": "DATE"}]}
+{"id": "dev_124", "text": "delivery scheduled for fifteenth december two thousand twenty five", "entities": [{"start": 23, "end": 66, "label": "DATE"}]}
+{"id": "dev_125", "text": "i will come on tomorrow morning", "entities": [{"start": 15, "end": 31, "label": "DATE"}]}
+{"id": "dev_126", "text": "i will come on tomorrow morning", "entities": [{"start": 15, "end": 31, "label": "DATE"}]}
+{"id": "dev_127", "text": "meeting on 23 slash 11 slash 2025", "entities": [{"start": 11, "end": 33, "label": "DATE"}]}
+{"id": "dev_128", "text": "i will come on fifteenth december two thousand twenty five", "entities": [{"start": 15, "end": 58, "label": "DATE"}]}
+{"id": "dev_129", "text": "delivery scheduled for 23 slash 11 slash 2025", "entities": [{"start": 23, "end": 45, "label": "DATE"}]}
+{"id": "dev_130", "text": "delivery scheduled for 23 november 2025", "entities": [{"start": 23, "end": 39, "label": "DATE"}]}
+{"id": "dev_131", "text": "meeting on 23 slash 11 slash 2025", "entities": [{"start": 11, "end": 33, "label": "DATE"}]}
+{"id": "dev_132", "text": "meeting on next monday", "entities": [{"start": 11, "end": 22, "label": "DATE"}]}
+{"id": "dev_133", "text": "i will come on 23 november 2025", "entities": [{"start": 15, "end": 31, "label": "DATE"}]}
+{"id": "dev_134", "text": "meeting on 23 november 2025", "entities": [{"start": 11, "end": 27, "label": "DATE"}]}
+{"id": "dev_135", "text": "meeting on twenty third november", "entities": [{"start": 11, "end": 32, "label": "DATE"}]}
+{"id": "dev_136", "text": "i will come on 23 slash 11 slash 2025", "entities": [{"start": 15, "end": 37, "label": "DATE"}]}
+{"id": "dev_137", "text": "i will come on next monday", "entities": [{"start": 15, "end": 26, "label": "DATE"}]}
+{"id": "dev_138", "text": "delivery scheduled for next monday", "entities": [{"start": 23, "end": 34, "label": "DATE"}]}
+{"id": "dev_139", "text": "i will come on 23 slash 11 slash 2025", "entities": [{"start": 15, "end": 37, "label": "DATE"}]}
+{"id": "dev_140", "text": "i will come on twenty third november", "entities": [{"start": 15, "end": 36, "label": "DATE"}]}
+{"id": "dev_141", "text": "meeting on next monday", "entities": [{"start": 11, "end": 22, "label": "DATE"}]}
+{"id": "dev_142", "text": "i will come on next monday", "entities": [{"start": 15, "end": 26, "label": "DATE"}]}
+{"id": "dev_143", "text": "meeting on 23 slash 11 slash 2025", "entities": [{"start": 11, "end": 33, "label": "DATE"}]}
+{"id": "dev_144", "text": "delivery scheduled for fifteenth december two thousand twenty five", "entities": [{"start": 23, "end": 66, "label": "DATE"}]}
+{"id": "dev_145", "text": "meeting on 23 november 2025", "entities": [{"start": 11, "end": 27, "label": "DATE"}]}
+{"id": "dev_146", "text": "meeting on next monday", "entities": [{"start": 11, "end": 22, "label": "DATE"}]}
+{"id": "dev_147", "text": "i will come on fifteenth december two thousand twenty five", "entities": [{"start": 15, "end": 58, "label": "DATE"}]}
+{"id": "dev_148", "text": "meeting on next monday", "entities": [{"start": 11, "end": 22, "label": "DATE"}]}
+{"id": "dev_149", "text": "i will come on fifteenth december two thousand twenty five", "entities": [{"start": 15, "end": 58, "label": "DATE"}]}
+{"id": "dev_150", "text": "my city is hyderabad", "entities": [{"start": 11, "end": 20, "label": "CITY"}]}
+{"id": "dev_151", "text": "calling from chennai", "entities": [{"start": 13, "end": 20, "label": "CITY"}]}
+{"id": "dev_152", "text": "i live in hyderabad", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "dev_153", "text": "calling from delhi", "entities": [{"start": 13, "end": 18, "label": "CITY"}]}
+{"id": "dev_154", "text": "my city is delhi", "entities": [{"start": 11, "end": 16, "label": "CITY"}]}
+{"id": "dev_155", "text": "calling from surat", "entities": [{"start": 13, "end": 18, "label": "CITY"}]}
+{"id": "dev_156", "text": "i live in mumbai", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "dev_157", "text": "my city is pune", "entities": [{"start": 11, "end": 15, "label": "CITY"}]}
+{"id": "dev_158", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "dev_159", "text": "i live in mumbai", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "dev_160", "text": "i live in kolkata", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "dev_161", "text": "my city is surat", "entities": [{"start": 11, "end": 16, "label": "CITY"}]}
+{"id": "dev_162", "text": "my city is mumbai", "entities": [{"start": 11, "end": 17, "label": "CITY"}]}
+{"id": "dev_163", "text": "calling from pune", "entities": [{"start": 13, "end": 17, "label": "CITY"}]}
+{"id": "dev_164", "text": "calling from kolkata", "entities": [{"start": 13, "end": 20, "label": "CITY"}]}
+{"id": "dev_165", "text": "calling from delhi", "entities": [{"start": 13, "end": 18, "label": "CITY"}]}
+{"id": "dev_166", "text": "calling from bengaluru", "entities": [{"start": 13, "end": 22, "label": "CITY"}]}
+{"id": "dev_167", "text": "my city is delhi", "entities": [{"start": 11, "end": 16, "label": "CITY"}]}
+{"id": "dev_168", "text": "i live in mumbai", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "dev_169", "text": "calling from mumbai", "entities": [{"start": 13, "end": 19, "label": "CITY"}]}
+{"id": "dev_170", "text": "calling from chennai", "entities": [{"start": 13, "end": 20, "label": "CITY"}]}
+{"id": "dev_171", "text": "calling from surat", "entities": [{"start": 13, "end": 18, "label": "CITY"}]}
+{"id": "dev_172", "text": "my city is pune", "entities": [{"start": 11, "end": 15, "label": "CITY"}]}
+{"id": "dev_173", "text": "calling from kolkata", "entities": [{"start": 13, "end": 20, "label": "CITY"}]}
+{"id": "dev_174", "text": "my city is pune", "entities": [{"start": 11, "end": 15, "label": "CITY"}]}
+{"id": "dev_175", "text": "delivery at andheri east", "entities": [{"start": 12, "end": 24, "label": "LOCATION"}]}
+{"id": "dev_176", "text": "delivery at mg road", "entities": [{"start": 12, "end": 19, "label": "LOCATION"}]}
+{"id": "dev_177", "text": "meet me at malleshwaram", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "dev_178", "text": "delivery at silk board", "entities": [{"start": 12, "end": 22, "label": "LOCATION"}]}
+{"id": "dev_179", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "dev_180", "text": "delivery at baner road", "entities": [{"start": 12, "end": 22, "label": "LOCATION"}]}
+{"id": "dev_181", "text": "delivery at mg road", "entities": [{"start": 12, "end": 19, "label": "LOCATION"}]}
+{"id": "dev_182", "text": "drop point is btm layout", "entities": [{"start": 14, "end": 24, "label": "LOCATION"}]}
+{"id": "dev_183", "text": "delivery at park street", "entities": [{"start": 12, "end": 23, "label": "LOCATION"}]}
+{"id": "dev_184", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "dev_185", "text": "drop point is malleshwaram", "entities": [{"start": 14, "end": 26, "label": "LOCATION"}]}
+{"id": "dev_186", "text": "delivery at malleshwaram", "entities": [{"start": 12, "end": 24, "label": "LOCATION"}]}
+{"id": "dev_187", "text": "meet me at andheri east", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "dev_188", "text": "delivery at malleshwaram", "entities": [{"start": 12, "end": 24, "label": "LOCATION"}]}
+{"id": "dev_189", "text": "drop point is btm layout", "entities": [{"start": 14, "end": 24, "label": "LOCATION"}]}
+{"id": "dev_190", "text": "delivery at mg road", "entities": [{"start": 12, "end": 19, "label": "LOCATION"}]}
+{"id": "dev_191", "text": "drop point is park street", "entities": [{"start": 14, "end": 25, "label": "LOCATION"}]}
+{"id": "dev_192", "text": "drop point is btm layout", "entities": [{"start": 14, "end": 24, "label": "LOCATION"}]}
+{"id": "dev_193", "text": "drop point is btm layout", "entities": [{"start": 14, "end": 24, "label": "LOCATION"}]}
+{"id": "dev_194", "text": "meet me at andheri east", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "dev_195", "text": "delivery at andheri east", "entities": [{"start": 12, "end": 24, "label": "LOCATION"}]}
+{"id": "dev_196", "text": "drop point is mg road", "entities": [{"start": 14, "end": 21, "label": "LOCATION"}]}
+{"id": "dev_197", "text": "meet me at malleshwaram", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "dev_198", "text": "drop point is andheri east", "entities": [{"start": 14, "end": 26, "label": "LOCATION"}]}
+{"id": "dev_199", "text": "drop point is silk board", "entities": [{"start": 14, "end": 24, "label": "LOCATION"}]}
